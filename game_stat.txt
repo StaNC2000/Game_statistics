@@ -22,3 +22,11 @@ Command & Conquer	3	1995	Real-time strategy	Virgin Interactive
 Crysis	3	2007	First-person shooter	Electronic Arts
 Warcraft III: Reign of Chaos	3	2002	Real-time strategy	Blizzard Entertainment
 Counter-Strike: Condition Zero	2.9	2004	First-person shooter	Valve Corporation
+Call of Duty: Modern Warfare 4	16.2	2018	First-person shooter	Activision
+Zoo	2.0	2015	RPG	Microsoft
+Master of Disaster IV : King's Rules	5.9	2018	First-person shooter	Activision
+Tom & Jerry	8.0	2010	Platform	Disney
+Mych	2.0	2	2	 2
+Whaaaaaaaat?	100.0	2020	Family Game	 eSeLki Group
+Lucky '7'	5.3	2016	RPG	 NCSoft
+Rumpers Trumpers	3.2	2018	RPG	Microsoft
